@@ -1,3 +1,6 @@
-public public static void main(String[] args) {
-    System.out.println("Hellloooooo!!!");
+
+public class welcome{
+    public static void main(String[] args) {
+        System.out.println("Hellloooooo!!!");
+    }
 }
