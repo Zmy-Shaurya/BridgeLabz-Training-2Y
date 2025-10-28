@@ -2,8 +2,10 @@
 
 ### ALL THE WORK IS ORGANIZED USING BRANCHES.
 
-[java fundamentals](https://github.com/Zmy-Shaurya/BridgeLabz-Training-2Y/tree/java)
+[Java Fundamentals](https://github.com/Zmy-Shaurya/BridgeLabz-Training-2Y/tree/java)
 
-[core java](https://github.com/Zmy-Shaurya/BridgeLabz-Training-2Y/tree/core)
+[Core Java](https://github.com/Zmy-Shaurya/BridgeLabz-Training-2Y/tree/core)
 
-[oops](https://github.com/Zmy-Shaurya/BridgeLabz-Training-2Y/tree/oops)
+[Object Oriented Programming](https://github.com/Zmy-Shaurya/BridgeLabz-Training-2Y/tree/oops)
+
+[Introduction to Java 8](https://github.com/Zmy-Shaurya/BridgeLabz-Training-2Y/tree/java8)
